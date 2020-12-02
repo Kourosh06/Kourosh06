@@ -27,4 +27,4 @@ So github says I should use this format to *get myself started:*
 - 💬 Ask me about `Nothing cuz I might not be able to help.`
 - 📫 How to reach me: `YOU CAN'T REACH ME 😈😈.`
 - 😄 Pronouns: `I, you, he, she, we, they, it.`
-- ⚡ Fun fact: `Did you know that :| is not the same as |: ?`
+- ⚡ Fun fact: `:D`
