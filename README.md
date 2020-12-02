@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### I'm Kourosh Kaveh. I know it may be hard to say.
+### I'm Kourosh Kaveh. I know it may be hard to say.
 jus kidin' I actually don't have any idea how hard it is for **you** to say my name. :D
 
 So github says i should use this format to *get myself started:*
