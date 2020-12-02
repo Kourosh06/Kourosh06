@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 **I'm Kourosh Kaveh. I know it may be hard to say.**
-jus kidin' I actually don't have any idea how hard it is for **you** to say my name. :D
 
+jus kidin' I actually don't have any idea how hard it is for **you** to say my name. :D
 So github says I should use this format to *get myself started:*
 
 - 🔭 I’m currently working on `Nothing special at the moment.`
