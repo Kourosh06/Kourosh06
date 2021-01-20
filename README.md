@@ -15,17 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm Kourosh Kaveh. I know it may be hard to say.**
-
-jus kidin' I actually don't have any idea how hard it is for **you** to say my name. :D
-
-So github says I should use this format to *get myself started:*
-
-- 🔭 I’m currently working on `Nothing special at the moment.`
-- 🌱 I’m currently learning `Python, C++.`
-- 👯 I’m looking to collaborate on `Nothing special at the moment.`
-- 🤔 I’m looking for help with `Nothing special at the moment.`
-- 💬 Ask me about `Nothing cuz I might not be able to help.`
-- 📫 How to reach me: `YOU CAN'T REACH ME 😈😈.`
-- 😄 Pronouns: `I, you, he, she, we, they, it.`
-- ⚡ Fun fact: `:D`
+I'm Kourosh Kaveh.
